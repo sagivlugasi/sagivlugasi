@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagivlugasi 
-- 👀 I’m a Java, C, C++, C#, Python developer
+- 👀 I’m a Java, C, C++ and C# developer
 - 📱 Native mobile developer
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently a computer science student
 
 - 📫 sagivapps@gmail.com
 
